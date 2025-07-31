@@ -1,7 +1,6 @@
-import java.lang.reflect.Array;
 import java.util.*;
 
-public class BFStraversal {
+public class _04BFStraversal {
 
     public static void bfs(List<List<Integer>> adjList , int v, int src){
         boolean []visited = new boolean[v];
