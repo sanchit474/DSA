@@ -1,5 +1,5 @@
 public class ReverseString {
-
+//string reverse
     public static void main(String[] args) {
         String str ="Hello World welcome to the hub";
 //        String rev = "";
